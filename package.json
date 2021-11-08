@@ -1,6 +1,6 @@
 {
   "name": "@venly/web3modal",
-  "version": "1.9.5-develop.0",
+  "version": "1.9.5-develop.1",
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "keywords": [
     "web3",
